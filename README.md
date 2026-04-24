@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ndeepanjan/student-performance-prediction/blob/main/Student_Performance_Prediction.ipynb)
 # Overview
 This project predicts whether a student will pass or fail using a machine learning model.
 # Technologies Used
